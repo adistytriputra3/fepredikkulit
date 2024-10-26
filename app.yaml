@@ -1,5 +1,5 @@
 runtime: nodejs18
-service: frontend
+service: default
  
 handlers:
 - url: /favicon\.png
